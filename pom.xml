@@ -17,6 +17,8 @@
     <description/>
     <modules>
         <module>cloud</module>
+        <module>Services</module>
+        <module>common-lib</module>
     </modules>
 
     <properties>
@@ -24,7 +26,7 @@
 <!--         for all services -->
         <java.version>21</java.version>
         <spring.boot.version>4.1.1</spring.boot.version>
-        <spring.cloud.version>2025.1.0</spring.cloud.version>
+        <spring-cloud.version>2025.1.0</spring-cloud.version>
         <jjwt.version>0.12.6</jjwt.version>
         <lombok.version>1.18.36</lombok.version>
     </properties>

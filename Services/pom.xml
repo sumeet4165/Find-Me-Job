@@ -16,8 +16,7 @@
     <description>Business Service Modules </description>
 
     <modules>
-        <!--       -->
-        <!--       -Discovery,config,Gateway-->
+        <module>job-portal-user-service</module>
     </modules>
 
 </project>
